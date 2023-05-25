@@ -1,0 +1,26 @@
+.header {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.header__menu {
+    width: 100%;
+    padding: 20px 10px;
+}
+.header__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo {
+}
+.header__item {
+    
+}
+
+.header__item a {
+    color: black;
+}
+
+.header__item a:hover {
+    border-bottom: 1px solid black;
+}
